@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="http://note.sdo.com/download" version="1.0">
+	<name short="麦库">麦库记事·剪集</name>
+	<description>快速剪辑内容，保存笔记至麦库记事。</description>
+  	<author href="http://note.sdo.com" email="mknote@snda.com">@麦库记事</author>
+  	<icon src="images/icons/48x48.png" />
+    <preference name="serializeimg" value="true" />
+    <feature name="opera:share-cookies" required="true" />
+    <access origin="*" subdomains="true"/>
+</widget>
